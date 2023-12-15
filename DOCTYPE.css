@@ -1,0 +1,38 @@
+h1 {
+color: white;
+text-align: left;
+font-family: Sanchez;
+}
+
+body {
+   background-color: lightblue;
+}
+
+.brain {
+ position: absolute;
+ top: 1px;
+ right: 1px;
+ width: 100px;
+}
+
+h2 {
+ color: white;
+ text-align: left;
+}
+
+h3 {
+color: white;
+ text-align: left;
+}
+
+.heart {
+ position: absolute;
+ bottom: 240px;
+ right: 1px;
+}
+
+.peace {
+ position: absolute;
+ bottom: 110px;
+ right: 1px;
+}
